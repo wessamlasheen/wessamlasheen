@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @wessamlasheen
-- 👀 I’m interested in frontend developing
-- 🌱 I’m currently learning reactjs
+- 👀 I’m interested in frontend developing(ReactJS)
 - 📫 How to reach me at  wessamadelgawad@gmail.com
 
 <!---
